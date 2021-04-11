@@ -39,7 +39,6 @@
 <body class="${properties.kcBodyClass!}">
   <div class="${properties.kcLoginClass!}">
     <div id="kc-header" class="${properties.kcHeaderClass!}">
-      <div id="kc-header-wrapper" class="${properties.kcHeaderWrapperClass!}">Elab</div>
       <div id="kc-header-image-wrapper">
         <div id="image-wrapper">
         <img src="${url.resourcesPath}/img/logo.png"/>
