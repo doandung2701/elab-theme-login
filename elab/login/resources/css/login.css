@@ -547,9 +547,9 @@ form#kc-select-back-form div.login-pf-social-section {
 }
 
 #kc-header-image-wrapper #image-wrapper img{
-    width: 100px;
     height: 100px;
     display: inline-block;
+    margin-top: 156px;
 }
 #kc-header-image-wrapper #image-wrapper{
 
